@@ -1,0 +1,34 @@
+C:\Users\eren7\Documents\Programlama\BasicCalculator\variableTypeSeperator\variableTypeSeperator\bin\Debug\net6.0-windows\variableTypeSeperator.exe
+C:\Users\eren7\Documents\Programlama\BasicCalculator\variableTypeSeperator\variableTypeSeperator\bin\Debug\net6.0-windows\variableTypeSeperator.deps.json
+C:\Users\eren7\Documents\Programlama\BasicCalculator\variableTypeSeperator\variableTypeSeperator\bin\Debug\net6.0-windows\variableTypeSeperator.runtimeconfig.json
+C:\Users\eren7\Documents\Programlama\BasicCalculator\variableTypeSeperator\variableTypeSeperator\bin\Debug\net6.0-windows\variableTypeSeperator.dll
+C:\Users\eren7\Documents\Programlama\BasicCalculator\variableTypeSeperator\variableTypeSeperator\bin\Debug\net6.0-windows\variableTypeSeperator.pdb
+C:\Users\eren7\Documents\Programlama\BasicCalculator\variableTypeSeperator\variableTypeSeperator\obj\Debug\net6.0-windows\variableTypeSeperator.csproj.AssemblyReference.cache
+C:\Users\eren7\Documents\Programlama\BasicCalculator\variableTypeSeperator\variableTypeSeperator\obj\Debug\net6.0-windows\variableTypeSeperator.Form1.resources
+C:\Users\eren7\Documents\Programlama\BasicCalculator\variableTypeSeperator\variableTypeSeperator\obj\Debug\net6.0-windows\variableTypeSeperator.csproj.GenerateResource.cache
+C:\Users\eren7\Documents\Programlama\BasicCalculator\variableTypeSeperator\variableTypeSeperator\obj\Debug\net6.0-windows\variableTypeSeperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eren7\Documents\Programlama\BasicCalculator\variableTypeSeperator\variableTypeSeperator\obj\Debug\net6.0-windows\variableTypeSeperator.AssemblyInfoInputs.cache
+C:\Users\eren7\Documents\Programlama\BasicCalculator\variableTypeSeperator\variableTypeSeperator\obj\Debug\net6.0-windows\variableTypeSeperator.AssemblyInfo.cs
+C:\Users\eren7\Documents\Programlama\BasicCalculator\variableTypeSeperator\variableTypeSeperator\obj\Debug\net6.0-windows\variableTypeSeperator.csproj.CoreCompileInputs.cache
+C:\Users\eren7\Documents\Programlama\BasicCalculator\variableTypeSeperator\variableTypeSeperator\obj\Debug\net6.0-windows\variableTypeSeperator.dll
+C:\Users\eren7\Documents\Programlama\BasicCalculator\variableTypeSeperator\variableTypeSeperator\obj\Debug\net6.0-windows\refint\variableTypeSeperator.dll
+C:\Users\eren7\Documents\Programlama\BasicCalculator\variableTypeSeperator\variableTypeSeperator\obj\Debug\net6.0-windows\variableTypeSeperator.pdb
+C:\Users\eren7\Documents\Programlama\BasicCalculator\variableTypeSeperator\variableTypeSeperator\obj\Debug\net6.0-windows\variableTypeSeperator.genruntimeconfig.cache
+C:\Users\eren7\Documents\Programlama\BasicCalculator\variableTypeSeperator\variableTypeSeperator\obj\Debug\net6.0-windows\ref\variableTypeSeperator.dll
+C:\Users\eren7\Desktop\GitHub\Microsoft Forms\variableTypeSeperator\variableTypeSeperator\bin\Debug\net6.0-windows\variableTypeSeperator.exe
+C:\Users\eren7\Desktop\GitHub\Microsoft Forms\variableTypeSeperator\variableTypeSeperator\bin\Debug\net6.0-windows\variableTypeSeperator.deps.json
+C:\Users\eren7\Desktop\GitHub\Microsoft Forms\variableTypeSeperator\variableTypeSeperator\bin\Debug\net6.0-windows\variableTypeSeperator.runtimeconfig.json
+C:\Users\eren7\Desktop\GitHub\Microsoft Forms\variableTypeSeperator\variableTypeSeperator\bin\Debug\net6.0-windows\variableTypeSeperator.dll
+C:\Users\eren7\Desktop\GitHub\Microsoft Forms\variableTypeSeperator\variableTypeSeperator\bin\Debug\net6.0-windows\variableTypeSeperator.pdb
+C:\Users\eren7\Desktop\GitHub\Microsoft Forms\variableTypeSeperator\variableTypeSeperator\obj\Debug\net6.0-windows\variableTypeSeperator.csproj.AssemblyReference.cache
+C:\Users\eren7\Desktop\GitHub\Microsoft Forms\variableTypeSeperator\variableTypeSeperator\obj\Debug\net6.0-windows\variableTypeSeperator.Form1.resources
+C:\Users\eren7\Desktop\GitHub\Microsoft Forms\variableTypeSeperator\variableTypeSeperator\obj\Debug\net6.0-windows\variableTypeSeperator.csproj.GenerateResource.cache
+C:\Users\eren7\Desktop\GitHub\Microsoft Forms\variableTypeSeperator\variableTypeSeperator\obj\Debug\net6.0-windows\variableTypeSeperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eren7\Desktop\GitHub\Microsoft Forms\variableTypeSeperator\variableTypeSeperator\obj\Debug\net6.0-windows\variableTypeSeperator.AssemblyInfoInputs.cache
+C:\Users\eren7\Desktop\GitHub\Microsoft Forms\variableTypeSeperator\variableTypeSeperator\obj\Debug\net6.0-windows\variableTypeSeperator.AssemblyInfo.cs
+C:\Users\eren7\Desktop\GitHub\Microsoft Forms\variableTypeSeperator\variableTypeSeperator\obj\Debug\net6.0-windows\variableTypeSeperator.csproj.CoreCompileInputs.cache
+C:\Users\eren7\Desktop\GitHub\Microsoft Forms\variableTypeSeperator\variableTypeSeperator\obj\Debug\net6.0-windows\variableTypeSeperator.dll
+C:\Users\eren7\Desktop\GitHub\Microsoft Forms\variableTypeSeperator\variableTypeSeperator\obj\Debug\net6.0-windows\refint\variableTypeSeperator.dll
+C:\Users\eren7\Desktop\GitHub\Microsoft Forms\variableTypeSeperator\variableTypeSeperator\obj\Debug\net6.0-windows\variableTypeSeperator.pdb
+C:\Users\eren7\Desktop\GitHub\Microsoft Forms\variableTypeSeperator\variableTypeSeperator\obj\Debug\net6.0-windows\variableTypeSeperator.genruntimeconfig.cache
+C:\Users\eren7\Desktop\GitHub\Microsoft Forms\variableTypeSeperator\variableTypeSeperator\obj\Debug\net6.0-windows\ref\variableTypeSeperator.dll
