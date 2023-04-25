@@ -1,0 +1,17 @@
+C:\Users\eren7\Desktop\GitHub\Microsoft Forms\randomNumberRoller\bin\Debug\net6.0-windows\randomNumberRoller.exe
+C:\Users\eren7\Desktop\GitHub\Microsoft Forms\randomNumberRoller\bin\Debug\net6.0-windows\randomNumberRoller.deps.json
+C:\Users\eren7\Desktop\GitHub\Microsoft Forms\randomNumberRoller\bin\Debug\net6.0-windows\randomNumberRoller.runtimeconfig.json
+C:\Users\eren7\Desktop\GitHub\Microsoft Forms\randomNumberRoller\bin\Debug\net6.0-windows\randomNumberRoller.dll
+C:\Users\eren7\Desktop\GitHub\Microsoft Forms\randomNumberRoller\bin\Debug\net6.0-windows\randomNumberRoller.pdb
+C:\Users\eren7\Desktop\GitHub\Microsoft Forms\randomNumberRoller\obj\Debug\net6.0-windows\randomNumberRoller.csproj.AssemblyReference.cache
+C:\Users\eren7\Desktop\GitHub\Microsoft Forms\randomNumberRoller\obj\Debug\net6.0-windows\randomNumberRoller.Form1.resources
+C:\Users\eren7\Desktop\GitHub\Microsoft Forms\randomNumberRoller\obj\Debug\net6.0-windows\randomNumberRoller.csproj.GenerateResource.cache
+C:\Users\eren7\Desktop\GitHub\Microsoft Forms\randomNumberRoller\obj\Debug\net6.0-windows\randomNumberRoller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eren7\Desktop\GitHub\Microsoft Forms\randomNumberRoller\obj\Debug\net6.0-windows\randomNumberRoller.AssemblyInfoInputs.cache
+C:\Users\eren7\Desktop\GitHub\Microsoft Forms\randomNumberRoller\obj\Debug\net6.0-windows\randomNumberRoller.AssemblyInfo.cs
+C:\Users\eren7\Desktop\GitHub\Microsoft Forms\randomNumberRoller\obj\Debug\net6.0-windows\randomNumberRoller.csproj.CoreCompileInputs.cache
+C:\Users\eren7\Desktop\GitHub\Microsoft Forms\randomNumberRoller\obj\Debug\net6.0-windows\randomNumberRoller.dll
+C:\Users\eren7\Desktop\GitHub\Microsoft Forms\randomNumberRoller\obj\Debug\net6.0-windows\refint\randomNumberRoller.dll
+C:\Users\eren7\Desktop\GitHub\Microsoft Forms\randomNumberRoller\obj\Debug\net6.0-windows\randomNumberRoller.pdb
+C:\Users\eren7\Desktop\GitHub\Microsoft Forms\randomNumberRoller\obj\Debug\net6.0-windows\randomNumberRoller.genruntimeconfig.cache
+C:\Users\eren7\Desktop\GitHub\Microsoft Forms\randomNumberRoller\obj\Debug\net6.0-windows\ref\randomNumberRoller.dll
